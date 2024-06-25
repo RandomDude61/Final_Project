@@ -79,8 +79,7 @@ header{
     border-radius: 10px;
     box-shadow: 2px 2px 15px -4px #6b6b6b;
     text-align: center;
-    height: 600px;
-
+    height: 550px;
 }
 
 .tab_detail {
@@ -92,7 +91,6 @@ header{
     border-radius: 10px;
     text-align: center;
     height: 550px;
-
 }
 
 .tab h2 {
@@ -136,6 +134,7 @@ img.title {
 .tab_detail img{
     border-radius: 2%;
     box-shadow: 2px 2px 15px -4px #202020;
+    margin-top: 100px;
 }
 
 footer{
@@ -155,7 +154,7 @@ footer a{
     height: 100px;
     margin-right: 20px;
 }
-.title{
+.header-title{
     text-align: center;
     margin-top: 100px;
 }
@@ -220,4 +219,5 @@ footer a{
 }
 .description_container {
     width: 45%;
+    margin-top: 100px;
 }
